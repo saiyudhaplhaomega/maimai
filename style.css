@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+}
+
+.filters {
+  width: 200px;
+  margin-right: 20px;
+}
+
+.filter-group {
+  margin-bottom: 15px;
+}
+
+.reviews-container {
+  flex-grow: 1;
+}
+
+.reviews-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.review-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.review-card h4 {
+  margin-top: 0;
+}
+
+.review-card .rating {
+  font-weight: bold;
+}

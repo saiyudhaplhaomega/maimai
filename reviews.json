@@ -1,0 +1,86 @@
+{
+  "result": [
+    {
+      "id": 548,
+      "listingId": 280927,
+      "listingName": "LUXURY APARTMENT IN FRONT OF THE SEA!",
+      "author": {
+        "firstName": "Yahya",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7a976341-a9ed-4299-b133-bb969f6a401c.jpg?aki_policy=profile_small"
+      },
+      "channel": {
+        "id": 1,
+        "name": "airbnb"
+      },
+      "review": {
+        "id": 1003719223,
+        "date": "2023-11-02",
+        "comments": "The best place to stay if you want a relaxing vacation, it has everything you need to feel like you are at your own home. It is very clean, the furniture is new and the view is amazing. The host is very helpful and kind. We will definitely come back.",
+        "rating": 5,
+        "translation": {
+          "language": "en",
+          "comments": "The best place to stay if you want a relaxing vacation, it has everything you need to feel like you are at your own home. It is very clean, the furniture is new and the view is amazing. The host is very helpful and kind. We will definitely come back."
+        }
+      },
+      "response": {
+        "id": null,
+        "comments": null,
+        "privateNote": null
+      },
+      "reviewType": "reservation",
+      "created": "2023-11-02 02:26:09",
+      "lastModified": "2023-11-02 02:26:09",
+      "display": false
+    },
+    {
+      "id": 1000,
+      "listingId": 280927,
+      "listingName": "LUXURY APARTMENT IN FRONT OF THE SEA!",
+      "author": {
+        "firstName": "John Doe",
+        "pictureUrl": ""
+      },
+      "channel": {
+        "id": 2,
+        "name": "google"
+      },
+      "review": {
+        "id": null,
+        "date": null,
+        "comments": "Amazing place, great location and super clean. Highly recommend!",
+        "rating": 5,
+        "translation": null
+      },
+      "response": null,
+      "reviewType": null,
+      "created": null,
+      "lastModified": null,
+      "display": false
+    },
+    {
+      "id": 1001,
+      "listingId": 280927,
+      "listingName": "LUXURY APARTMENT IN FRONT OF THE SEA!",
+      "author": {
+        "firstName": "Jane Smith",
+        "pictureUrl": ""
+      },
+      "channel": {
+        "id": 3,
+        "name": "google"
+      },
+      "review": {
+        "id": null,
+        "date": null,
+        "comments": "Lovely apartment, but a bit noisy at night. Overall, a good experience.",
+        "rating": 4,
+        "translation": null
+      },
+      "response": null,
+      "reviewType": null,
+      "created": null,
+      "lastModified": null,
+      "display": false
+    }
+  ]
+}
